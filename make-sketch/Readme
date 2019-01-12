@@ -1,0 +1,1 @@
+This module only works on linux because some Arduino.mk file commands are incompatible with windows.
